@@ -1,0 +1,15 @@
+{
+  "name": "꿀벌 수 측정 앱",
+  "short_name": "꿀벌측정",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7f2",
+  "theme_color": "#1f6b4a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
